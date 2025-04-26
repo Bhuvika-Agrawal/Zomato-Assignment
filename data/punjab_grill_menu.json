@@ -1,0 +1,575 @@
+{
+  "restaurant_name": "Punjab Grill",
+  "menu_details": {
+    "Awesome Appetizers": [],
+    "Small Plates": [],
+    "Main Plates": [
+      {
+        "item_name": "Dal Tadka",
+        "description": "Mixed trio of toor, moong, and masoor dal with onion & garlic tadka.",
+        "price": 525.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Dal Punjab Grill",
+        "description": "Punjab Grill's signature silky and buttery slow cooked black lentils.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Punjab Grill Paneer1965",
+        "description": "Cottage cheese cooked in rich, buttery, and rustic tomato gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Palak Chironji & Mushroom Tadka",
+        "description": "Spinach and corn curry with chirongi and mushroom tadka on top.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Kadhai Paneer",
+        "description": "Cottage cheese in spicy onion & capsicum gravy with coriander seeds.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Cottage cheese cooked in cheesy & creamy onion tomato gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Paneer Makhani",
+        "description": "Punjab Grill's signature cottage cheese cooked in silky & creamy makhani gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Palak Paneer",
+        "description": "Rustic spinach and cottage cheese curry tossed in garlic and onion tomato gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Kesar Malai Kofta",
+        "description": "Soft nuts stuffed cottage cheese koftas in rich cashew and yoghurt gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Soya Do Pyaza",
+        "description": "Succulent soya boti and shallots in thick & robust whole spice and onion gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Subziyaan De Millniyan",
+        "description": "Seasonal vegetables sautéed to perfection and oozing of flavours",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Kasundi, Mirch Te Adrakh De Aloo",
+        "description": "Baby potatoes tossed in kasundi, green chili and ginger juliennes.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Dhingri Te Pyaz",
+        "description": "Subtly spiced stir fried mushroom with cabbage and spring onions.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Pyaaz Wali Bhindi",
+        "description": "Stir fried medium spiced okra in tomato and onion masala.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Aloo Gobhi",
+        "description": "Fried potatoes and cauliflower florets tossed in onion and tomato masala.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Pindi Chana Masala",
+        "description": "Chickpeas tossed in onions, tomato gravy along with carom seeds and in-house chana masala.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Malai Chenna Peda",
+        "description": "Chenna sponge dumplings in malai & mustard gravy.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      }
+    ],
+    "Kulcha De Khahaniya - Ambarsari Kulcha": [
+      {
+        "item_name": "Classic Aloo Payaz Kulcha",
+        "description": "The simple flavours of roasted spices make the classic aloo-pyaz kulcha absolutely delightful, perfectly mirroring the Punjabi culture – simple and humble.",
+        "price": 375.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Banarasi Tamatar Kulcha",
+        "description": "Perfectly encapsulating the flavor and richness of the celebrated 'Banarasi Tamatar Chaat' blended with exquisite bocconcini cheese in the stuffing of the kulcha. A flawless combination of diverse food cultures.",
+        "price": 375.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Malai Kulcha",
+        "description": "The profound love for cheese is the inspiration behind this alliance. The limited use of herbs and spices elevates the flavor and creaminess of cheese, utterly invigorating than a regular cheese kulcha.",
+        "price": 375.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Mutton Achaari Kulcha",
+        "description": "Achaar being an essential part of our food, slightly sweet and tangy along with earthy flavours of the achari masala, perfectly blends with soft mutton chunks and the texture of Kulcha",
+        "price": 395.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Butter Chicken Kulcha",
+        "description": "Bringing two iconic dishes that has been ruling the hearts of food epicures since decades. An unending affair of heavenly butter chicken and traditional kulcha.",
+        "price": 395.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      }
+    ],
+    "Street Fare & Shorba": [
+      {
+        "item_name": "Cucumber - Tomato Salad",
+        "description": "A perfect & refreshing medley of fresh and crunchy cucumbers, tomatoes, carrots, lime, and green chilies.",
+        "price": 225.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Masala Papad",
+        "description": "Crisp and light poppadom topped generously with spicy tomato, and onion mix with green coriander to add a splash of freshness.",
+        "price": 225.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Dahi Papdi Chaat",
+        "description": "Potato and sweet curd topped flaky papdi with a smatter of mint and tamarind chutney.",
+        "price": 395.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Palak Patta Chaat",
+        "description": "Crispy fried spinach leaves, a tumble of onion, tomatoes & edamame, with a dash of mint and tamarind chutneys, covered with yoghurt foam.",
+        "price": 395.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tamatar Shorba",
+        "description": "Tangy tomato broth infused with local herbs.",
+        "price": 295.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Murgh Badami Shorba",
+        "description": "Creamy chicken broth instilled with spices.",
+        "price": 325.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Mutton Raan Shorba",
+        "description": "Lamb broth spiced up with Indian spices.",
+        "price": 345.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      }
+    ],
+    "Kebabs": [
+      {
+        "item_name": "Tawa Soya Fillet",
+        "description": "Pan seared soya fillet with red chili and curry leaf marinade.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Kasundi Broccoli / Malai Broccoli",
+        "description": "Tandoori broccoli in kasundi / creamy marinade.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tandoori Chatpate Aloo",
+        "description": "Spicy and tangy baby potatoes roasted in tandoor.",
+        "price": 575.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Khumb Peshawari",
+        "description": "Mushrooms with spicy stuffing and shashlik roasted in tandoor.",
+        "price": 575.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Bhutteyan De Kebab",
+        "description": "Deep-fried corn patties flavored with fennel.",
+        "price": 575.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Paneer Tikka Multani",
+        "description": "Mildly spiced paneer tikkas with mint stuffing.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Nadru Galouti Kebab",
+        "description": "Smoked lotus stem galouti kebab served on ulta tawa parantha.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Veg Kurkuri",
+        "description": "Crisp deep fried wanton rolls with cheese, peppers, nuts, and olives.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Hara Matar Di Tikki",
+        "description": "Pan seared green peas kebab with cream cheese stuffing.",
+        "price": 575.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Dahi Ke Kebab",
+        "description": "Deep-fried mildly flavored hung curd kebab.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Paneer Cigar Roll",
+        "description": "Paneer roll layered with tangy tomato thokku, cooked in tandoor.",
+        "price": 595.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tandoori Subzian",
+        "description": "Tandoori broccoli, sakarkandi, pineapple, mushroom, shashlik & paneer tikka.",
+        "price": 655.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tandoori Gucchi",
+        "description": "Wild Himalayan morels stuffed with cream cheese & nuts, roasted in tandoor.",
+        "price": 1395.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Vegetarian Kebab Platter",
+        "description": "Assortment of Punjab Grill's signature kebabs.",
+        "price": 1295.0,
+        "is_vegetarian": true,
+        "special_tags": [
+          "Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Murgh Tikka Punjab Grill",
+        "description": "Spicy boneless chicken tikka in red chili marinade, cooked in tandoor.",
+        "price": 695.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Murgh Malai Tikka",
+        "description": "Boneless chicken tikka in cashew and cream marinade, cooked in tandoor.",
+        "price": 695.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Karachi Chargha",
+        "description": "Karachi's famous street style chargrilled chicken",
+        "price": 695.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Bhatti Da Murgh",
+        "description": "Whole chicken legs marinated with spicy bhatti masala & cooked in tandoor.",
+        "price": 695.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Chicken Kebab Platter",
+        "description": "Boneless platter of the Punjab Grill’s signature classic, malai and bhatti tikka.",
+        "price": 725.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tandoori Murgh (Half | Full) 525 |",
+        "description": "Tandoori chicken in classic red chili marinade with side of butter garlic broccoli.",
+        "price": 725.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Dhaga Burns Road Kebab",
+        "description": "Soft succulent mutton kebab straight from Burns Road in Karachi.",
+        "price": 795.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Khaam Khatai (Mutton Galouti)",
+        "description": "Melt in mouth aromatic mutton galouti served on ulta tawa parantha.",
+        "price": 795.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Raunaqeen Seekhan (Mutton)",
+        "description": "Classic mutton seekh tossed in cream & cheese.",
+        "price": 845.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Gilafi Chicken Seekh",
+        "description": "Chicken seekh kebab coated with bell peppers and onions.",
+        "price": 695.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Chaap Tajdar",
+        "description": "Overnight marinated spicy Indian lamb chops chargrilled to perfection.",
+        "price": 1295.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Chaap Tajdar (New Zealand)",
+        "description": "Chargrilled lamb chops in red chili marinade with green tea glazed orange.",
+        "price": 1595.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Raan - E - Sikandari",
+        "description": "Slow cooked lamb leg in special spice blend and chargrilled in tandoor.",
+        "price": 1395.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Mahi Tikka",
+        "description": "River sole chunks with garlic and mustard marinade roasted in tandoor.",
+        "price": 895.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Ambarsari Machhi",
+        "description": "Deep fried crispy river sole fillets with the zing of lemon.",
+        "price": 945.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tawa Surmai",
+        "description": "Pan seared king fish steaks with spicy red chili and curry leaf marinade.",
+        "price": 945.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Tawa Tiger Prawns",
+        "description": "Pan seared lemon-garlic seasoned tiger prawns with moilee sauce & tomato jam.",
+        "price": 1395.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Salmon Tikka",
+        "description": "Norwegian salmon in dill, fennel, & honey marinade, rendered in tandoor.",
+        "price": 1395.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      },
+      {
+        "item_name": "Non-Vegetarian Kebab Platter",
+        "description": "Platter of assorted signature kebabs of Punjab Grill.",
+        "price": 1495.0,
+        "is_vegetarian": false,
+        "special_tags": [
+          "Non-Vegetarian"
+        ]
+      }
+    ],
+    "Staples": [],
+    "Drinks": []
+  }
+}

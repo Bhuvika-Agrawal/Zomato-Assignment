@@ -1,0 +1,569 @@
+{
+    "restaurant_name": "Dominos Pizza",
+    "menu_by_category_filter": {
+        "Garlic Breads & More": {
+            "Veg Only": [
+                {
+                    "name": "Classic Stuffed Garlic Bread",
+                    "description": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno.",
+                    "price": "Rs.159"
+                },
+                {
+                    "name": "Korean Corn & Jalapeno Garlic Bread",
+                    "description": "Freshly baked garlic bread infused with Korean Sweet Chili Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Fiery Corn & Jalapeno Garlic Bread",
+                    "description": "Freshly baked garlic bread infused with Spicy Guntur Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Makhani Corn & Jalapeno Garlic Bread",
+                    "description": "Freshly baked garlic bread infused with Creamy Makhani Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Paneer Tikka Stuffed Garlic Bread",
+                    "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top.",
+                    "price": "Rs.169"
+                },
+                {
+                    "name": "Korean Paneer Tikka Garlic Bread",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Korean Sweet Chili Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Fiery Paneer Tikka Garlic Bread",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Spicy Guntur Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Makhani Paneer Tikka Garlic Bread",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Creamy Makhani Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Garlic Breadsticks + Cheesy Dip",
+                    "description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip.",
+                    "price": "Rs.138"
+                },
+                {
+                    "name": "Cheesy Dip",
+                    "description": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence.",
+                    "price": "Rs.30"
+                },
+                {
+                    "name": "Garlic Breadsticks",
+                    "description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip.",
+                    "price": "Rs.109"
+                },
+                {
+                    "name": "Veg Parcel",
+                    "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce.",
+                    "price": "Rs.49"
+                },
+                {
+                    "name": "Garlic Breadsticks + Beverage",
+                    "description": "Enjoy the all time favourite Garlic Breadsticks with Coke.",
+                    "price": "Rs.149"
+                },
+                {
+                    "name": "Taco Mexicana Veg",
+                    "description": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce.",
+                    "price": "Rs.139"
+                },
+                {
+                    "name": "Burger Pizza - Classic Veg",
+                    "description": "Oven-baked buns with cheese, tomato & capsicum in creamy mayo.",
+                    "price": "Rs.119"
+                },
+                {
+                    "name": "Burger Pizza - Premium Veg",
+                    "description": "Oven-baked buns with cheese, paneer, tomato, capsicum & red paprika in creamy mayo.",
+                    "price": "Rs.149"
+                },
+                {
+                    "name": "Taco Mexicana-Veg (Single)",
+                    "description": "Truly irresistible! Crispy taco with a delicious veg patty & creamy sauce.",
+                    "price": "Rs.79"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "description": "Goodness of Tomato Ketchup in mini sachets.",
+                    "price": "Rs.2"
+                },
+                {
+                    "name": "Basil Pesto Dip",
+                    "description": "Your perfect pizza partner! Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!.",
+                    "price": "Rs.49"
+                },
+                {
+                    "name": "Harissa Dip",
+                    "description": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices..",
+                    "price": "Rs.49"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Chicken Pepperoni Stuffed Garlic Bread",
+                    "description": "Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley.",
+                    "price": "Rs.169"
+                },
+                {
+                    "name": "Korean Pepperoni Garlic Bread",
+                    "description": "Freshly Baked Garlic Bread infused with Korean Sweet Chili Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Fiery Pepperoni Garlic Bread",
+                    "description": "Freshly Baked Garlic Bread infused with Spicy Guntur Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Makhani Pepperoni Garlic Bread",
+                    "description": "Freshly Baked Garlic Bread infused with Creamy Makhani Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+                    "price": "Rs.179"
+                },
+                {
+                    "name": "Burger Pizza - Classic Non Veg",
+                    "description": "Oven-baked buns with cheese, peri-peri chicken, tomato & jalapeno in creamy mayo.",
+                    "price": "Rs.159"
+                },
+                {
+                    "name": "Taco Mexicana Non Veg",
+                    "description": "Truly irresistible! Crispy taco with non-veg patty & creamy harissa sauce.",
+                    "price": "Rs.169"
+                },
+                {
+                    "name": "Chicken Parcel",
+                    "description": "Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce.",
+                    "price": "Rs.59"
+                }
+            ]
+        },
+        "Recommended": {
+            "Veg Only": [
+                {
+                    "name": "Margherita",
+                    "description": "Classic delight with 100% real mozzarella cheese.",
+                    "price": "Rs.109"
+                },
+                {
+                    "name": "Farmhouse",
+                    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom.",
+                    "price": "Rs.259"
+                },
+                {
+                    "name": "Peppy Paneer",
+                    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+                    "price": "Rs.269"
+                },
+                {
+                    "name": "Veggie Paradise",
+                    "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika.",
+                    "price": "Rs.269"
+                },
+                {
+                    "name": "Cheese n Corn",
+                    "description": "A delectable combination of sweet & juicy golden corn.",
+                    "price": "Rs.209"
+                },
+                {
+                    "name": "Veg Extravaganza",
+                    "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese.",
+                    "price": "Rs.309"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika",
+                    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+                    "price": "Rs.199"
+                },
+                {
+                    "name": "Blazing Onion & Paprika",
+                    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+                    "price": "Rs.199"
+                },
+                {
+                    "name": "Paneer Spice Supreme",
+                    "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!.",
+                    "price": "Rs.299"
+                },
+                {
+                    "name": "Marg & Farmhouse+Garlic Bread + Coke",
+                    "description": "Regular Margherita + Regular Farmhouse + Garlic Bread + Coke.",
+                    "price": "Rs.459"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Pepper Barbecue Chicken",
+                    "description": "Pepper barbecue chicken for that extra zing.",
+                    "price": "Rs.249"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "description": "American classic! Spicy, herbed chicken sausage on pizza.",
+                    "price": "Rs.209"
+                },
+                {
+                    "name": "Fiery Sausage & Paprika",
+                    "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+                    "price": "Rs.269"
+                }
+            ]
+        },
+        "New Launches": {
+            "Veg Only": [
+                {
+                    "name": "Big Big 6in1 Pizza - Veg",
+                    "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita.",
+                    "price": "Rs.799"
+                },
+                {
+                    "name": "Cheese Volcano Peppy Paneer",
+                    "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika *Contains non-edible container under the Pizza.",
+                    "price": "Rs.309"
+                },
+                {
+                    "name": "Cheese Volcano Farmhouse",
+                    "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom *Contains non-edible container under the Pizza.",
+                    "price": "Rs.309"
+                },
+                {
+                    "name": "Cheese Volcano Veg Paradise",
+                    "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika *Contains non-edible container under the Pizza.",
+                    "price": "Rs.309"
+                },
+                {
+                    "name": "Corn & Cheese Volcano",
+                    "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn *Contains non-edible container under the Pizza.",
+                    "price": "Rs.309"
+                },
+                {
+                    "name": "Blazing Onion & Paprika",
+                    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+                    "price": "Rs.199"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika",
+                    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+                    "price": "Rs.199"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Big Big 6in1 Pizza - Non Veg",
+                    "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight.",
+                    "price": "Rs.899"
+                },
+                {
+                    "name": "Cheese Volcano BBQ Chicken",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken *Contains non-edible container under the Pizza.",
+                    "price": "Rs.359"
+                },
+                {
+                    "name": "Cheese Volcano Chicken Delight",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn *Contains non-edible container under the Pizza.",
+                    "price": "Rs.359"
+                },
+                {
+                    "name": "Cheese Volcano Double Chicken",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken. *Contains non-edible container under the Pizza.",
+                    "price": "Rs.359"
+                },
+                {
+                    "name": "Cheese Volcano Blazing Chicken",
+                    "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce *Contains non-edible container under the Pizza.",
+                    "price": "Rs.359"
+                },
+                {
+                    "name": "Blazing Chicken & Paprika",
+                    "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce..",
+                    "price": "Rs.269"
+                },
+                {
+                    "name": "Fiery Sausage & Paprika",
+                    "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+                    "price": "Rs.269"
+                }
+            ]
+        },
+        "Meal for 1": {
+            "Veg Only": [
+                {
+                    "name": "Work from Home Veg Treat",
+                    "description": "Reg Cheese & Corn Pizza + Coke.",
+                    "price": "Rs.239"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Work from Home Non Veg Treat",
+                    "description": "Reg Chicken Sausage Pizza + Coke.",
+                    "price": "Rs.239"
+                }
+            ]
+        },
+        "Party Combos": {
+            "Veg Only": [
+                {
+                    "name": "Family House Party – Veg Deluxe Combo",
+                    "description": "Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi.",
+                    "price": "Rs.1459"
+                }
+            ],
+            "Non Veg Only": []
+        },
+        "No Onion No Garlic": {
+            "Veg Only": [
+                {
+                    "name": "Paneer Spice Supreme",
+                    "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!.",
+                    "price": "Rs.299"
+                }
+            ],
+            "Non Veg Only": []
+        },
+        "Cheese Burst Pizza": {
+            "Veg Only": [
+                {
+                    "name": "Peppy Paneer",
+                    "description": "Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika.",
+                    "price": "Rs.348"
+                },
+                {
+                    "name": "Farmhouse",
+                    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom.",
+                    "price": "Rs.338"
+                },
+                {
+                    "name": "Veggie Paradise",
+                    "description": "Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika.",
+                    "price": "Rs.348"
+                },
+                {
+                    "name": "Margherita",
+                    "description": "Molten Cheese Indulgence with delight of 100% real mozzarella cheese.",
+                    "price": "Rs.188"
+                },
+                {
+                    "name": "Mexican Green Wave",
+                    "description": "Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno.",
+                    "price": "Rs.348"
+                },
+                {
+                    "name": "Indi Tandoori Paneer",
+                    "description": "Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo.",
+                    "price": "Rs.398"
+                },
+                {
+                    "name": "Double Cheese Margherita",
+                    "description": "Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese.",
+                    "price": "Rs.288"
+                },
+                {
+                    "name": "Cheese n Corn",
+                    "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn.",
+                    "price": "Rs.288"
+                },
+                {
+                    "name": "Fresh Veggie",
+                    "description": "Molten Cheese Indulgence with combination of onion & capsicum.",
+                    "price": "Rs.298"
+                },
+                {
+                    "name": "Achari Do Pyaza",
+                    "description": "Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza.",
+                    "price": "Rs.278"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika Pizza",
+                    "description": "Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce.",
+                    "price": "Rs.278"
+                },
+                {
+                    "name": "Blazing Onion & Paprika Pizza",
+                    "description": "Molten Cheese Indulgence with onion & red paprika toppings along with spicy peri peri sauce.",
+                    "price": "Rs.278"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Spiced Double Chicken Pizza",
+                    "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers.",
+                    "price": "Rs.408"
+                },
+                {
+                    "name": "Pepper Barbecue Chicken",
+                    "description": "Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing.",
+                    "price": "Rs.328"
+                },
+                {
+                    "name": "Indi Chicken Tikka",
+                    "description": "Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo.",
+                    "price": "Rs.468"
+                },
+                {
+                    "name": "Chicken Golden Delight",
+                    "description": "Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese.",
+                    "price": "Rs.388"
+                },
+                {
+                    "name": "Chicken Fiesta",
+                    "description": "Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum.",
+                    "price": "Rs.418"
+                },
+                {
+                    "name": "Chicken Pepperoni",
+                    "description": "Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese.",
+                    "price": "Rs.458"
+                },
+                {
+                    "name": "The 5 Chicken Feast Cheese Burst",
+                    "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema.",
+                    "price": "Rs.478"
+                },
+                {
+                    "name": "Chicken Sausage",
+                    "description": "Molten Cheese Indulgence with American classic herbed chicken sausage.",
+                    "price": "Rs.288"
+                },
+                {
+                    "name": "Fiery Sausage & Paprika Pizza",
+                    "description": "Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce.",
+                    "price": "Rs.348"
+                },
+                {
+                    "name": "Blazing Chicken & Paprika Pizza",
+                    "description": "Molten Cheese Indulgence with a combination of chicken keema & red paprika toppings along with spicy peri peri sauce.",
+                    "price": "Rs.348"
+                }
+            ]
+        },
+        "Spicy Pizza": {
+            "Veg Only": [
+                {
+                    "name": "Blazing Onion & Paprika",
+                    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+                    "price": "Rs.199"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika",
+                    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+                    "price": "Rs.199"
+                },
+                {
+                    "name": "Peppy Paneer",
+                    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+                    "price": "Rs.269"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Pepper Barbecue Chicken",
+                    "description": "Pepper barbecue chicken for that extra zing.",
+                    "price": "Rs.249"
+                },
+                {
+                    "name": "Blazing Chicken & Paprika",
+                    "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce..",
+                    "price": "Rs.269"
+                },
+                {
+                    "name": "Fiery Sausage & Paprika",
+                    "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+                    "price": "Rs.269"
+                },
+                {
+                    "name": "Spiced Double Chicken",
+                    "description": "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers..",
+                    "price": "Rs.329"
+                }
+            ]
+        },
+        "5 Course Lunch Feast": {
+            "Veg Only": [],
+            "Non Veg Only": []
+        },
+        "Big Big Pizza": {
+            "Veg Only": [
+                {
+                    "name": "Big Big 6in1 Pizza - Veg",
+                    "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita.",
+                    "price": "Rs.799"
+                }
+            ],
+            "Non Veg Only": [
+                {
+                    "name": "Big Big 6in1 Pizza - Non Veg",
+                    "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight.",
+                    "price": "Rs.899"
+                }
+            ]
+        },
+        "Desserts": {
+            "Veg Only": [
+                {
+                    "name": "Choco Lava Cake Gift Hamper",
+                    "description": "Dive into the ultimate dessert experience with our Lavalicious Combo that’s Made to Share. *We don't include a spoon or napkin to support sustainability.",
+                    "price": "Rs.325"
+                },
+                {
+                    "name": "Choco Lava Cake",
+                    "description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake.",
+                    "price": "Rs.109"
+                },
+                {
+                    "name": "Butterscotch Mousse Cake",
+                    "description": "Sweet temptation! Butterscotch flavored mousse.",
+                    "price": "Rs.109"
+                },
+                {
+                    "name": "Red Velvet Lava Cake",
+                    "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!.",
+                    "price": "Rs.139"
+                }
+            ]
+        },
+        "Beverages": {
+            "Veg Only": [
+                {
+                    "name": "Coca Cola 475ml",
+                    "description": "Sparkling and Refreshing Beverage.",
+                    "price": "Rs.70"
+                },
+                {
+                    "name": "Coca Cola Zero Sugar 330ml",
+                    "description": "Maximum Taste, Zero Sugar.",
+                    "price": "Rs.70"
+                },
+                {
+                    "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+                    "description": "Alphonsos only from Ratnagiri with the Goodness of Fiber.",
+                    "price": "Rs.75"
+                },
+                {
+                    "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+                    "description": "Premium fruits from Himalayas with the Goodness of Fiber.",
+                    "price": "Rs.75"
+                },
+                {
+                    "name": "Aquavess Water (500ml)",
+                    "description": "Packaged Drinking Water.",
+                    "price": "Rs.30"
+                },
+                {
+                    "name": "Nagpur Orange",
+                    "description": "Enjoy Oranges from Nagpur with the goodness of Fiber.",
+                    "price": "Rs.75"
+                },
+                {
+                    "name": "Sprite 475ml",
+                    "description": "Refreshing clear drink with a natural lemon flavour.",
+                    "price": "Rs.70"
+                }
+            ]
+        }
+    }
+}

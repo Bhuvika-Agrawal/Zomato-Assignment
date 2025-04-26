@@ -1,0 +1,370 @@
+{
+    "restaurant_name": "Subway (India - Unofficial Source)",
+    "menu_details": {
+        "Subway Menu Prices India": {},
+        "Super Saver Combos": {
+            "Delhi Tikki Sandwich": {
+                "price": "₹310"
+            },
+            "Bombay Grill Sandwich": {
+                "price": "₹310"
+            },
+            "3 Cheese Melt Sandwich": {
+                "price": "₹430"
+            },
+            "Egg ‘n Cheese Sandwich": {
+                "price": "₹390"
+            },
+            "Chicken Keema Sandwich": {
+                "price": "₹330"
+            },
+            "Roast Chicken Melt Sandwich": {
+                "price": "₹440"
+            },
+            "Crunchy Mexican Sandwich": {
+                "price": "₹369"
+            },
+            "Chilli Cheese Sandwich": {
+                "price": "₹359"
+            },
+            "Great American BBQ Sandwich": {
+                "price": "₹399"
+            },
+            "Chicken Tikka Achari Sandwich": {
+                "price": "₹379"
+            },
+            "Paneer Achari Sandwich": {
+                "price": "₹359"
+            },
+            "Pepper Chicken Sandwich": {
+                "price": "₹389"
+            },
+            "Veg Sub + Side + Coke": {
+                "price": "₹359"
+            },
+            "Non-Veg Sub + Side + Coke": {
+                "price": "₹379"
+            },
+            "2 Veg Subs + Coke": {
+                "price": "₹439"
+            },
+            "2 Veg Signature Subs + Coke": {
+                "price": "₹489"
+            },
+            "2 Veg Premium Subs + Coke": {
+                "price": "₹489"
+            },
+            "Any 2 Veg/Non-Veg Subs + Coke": {
+                "price": "₹539"
+            },
+            "2 Non-Veg Signature Subs + Coke": {
+                "price": "₹589"
+            }
+        },
+        "Try New Grills – Hot Sandwiches": {
+            "Delhi Tikki Sandwich": {
+                "price": "₹179"
+            },
+            "Bombay Grill Sandwich": {
+                "price": "₹189"
+            },
+            "3 Cheese Melt Sandwich": {
+                "price": "₹279"
+            },
+            "Egg ‘n Cheese Sandwich": {
+                "price": "₹279"
+            },
+            "Chicken Keema Grill Sandwich": {
+                "price": "₹199"
+            },
+            "Roast Chicken Melt Grill Sandwich": {
+                "price": "₹239"
+            }
+        },
+        "Chef’s Special Sandwiches – Hotsellers": {
+            "Paneer Achari Sandwich": {
+                "price": "₹269"
+            },
+            "Crunchy Mexican Sandwich": {
+                "price": "₹279"
+            },
+            "Chilli Cheese Sandwich": {
+                "price": "₹269"
+            },
+            "Great American BBQ Sandwich": {
+                "price": "₹309"
+            },
+            "Chicken Tikka Achari Sandwich": {
+                "price": "₹269"
+            },
+            "Paneer Achari Footlong": {
+                "price": "₹546"
+            },
+            "Pepper Chicken Sandwich": {
+                "price": "₹299"
+            },
+            "Paneer Achari Footlong – Make it a Cheese Pull": {
+                "price": "₹559"
+            },
+            "Paneer Achari Combo": {
+                "price": "₹589"
+            }
+        },
+        "Create Your Own Sandwiches": {
+            "Chicken Slice Egg & Cheese Sandwich": {
+                "price": "₹212"
+            },
+            "Aloo Patty Sandwich": {
+                "price": "₹221"
+            },
+            "Corn & Peas Sandwich": {
+                "price": "₹221"
+            },
+            "Paneer Tikka Sandwich": {
+                "price": "₹240"
+            },
+            "Veg Shammi Sandwich": {
+                "price": "₹240"
+            },
+            "Veggie Delite Sandwich": {
+                "price": "₹202"
+            },
+            "Chilli Bean Patty Sandwich": {
+                "price": "₹221"
+            },
+            "Chicken Meatball Sandwich": {
+                "price": "₹254"
+            },
+            "Chicken Slice Sandwich": {
+                "price": "₹254"
+            },
+            "Chicken Teriyaki Sandwich": {
+                "price": "₹278"
+            },
+            "Spicy Chicken Keema Sandwich": {
+                "price": "₹249"
+            },
+            "B.M.T. Sandwich": {
+                "price": "₹278"
+            },
+            "Peri Peri Chicken Sandwich": {
+                "price": "₹254"
+            },
+            "Tandoori Chicken Tikka Sandwich": {
+                "price": "₹254"
+            },
+            "Tuna Sandwich": {
+                "price": "₹278"
+            },
+            "Roasted Chicken Strip Sandwich": {
+                "price": "₹254"
+            }
+        },
+        "GuiltFree Menu": {
+            "Veggie Delite Sandwich Guiltfree": {
+                "price": "₹209"
+            },
+            "Paneer Tikka Sandwich Guiltfree": {
+                "price": "₹259"
+            },
+            "Aloo Patty Sandwich Guiltfree": {
+                "price": "₹209"
+            },
+            "Corn & Peas Sandwich Guiltfree": {
+                "price": "₹209"
+            },
+            "Tandoori Chicken Tikka Sandwich Guiltfree": {
+                "price": "₹289"
+            },
+            "Roasted Chicken Strip Sandwich Guiltfree": {
+                "price": "₹249"
+            },
+            "B.M.T. Sandwich Guiltfree": {
+                "price": "₹249"
+            },
+            "Chicken Teriyaki Sandwich Guiltfree": {
+                "price": "₹289"
+            },
+            "Peri Peri Chicken Sandwich Guiltfree": {
+                "price": "₹289"
+            },
+            "Paneer Tikka Signature Wrap Guiltfree": {
+                "price": "₹289"
+            },
+            "Tandoori Chicken Tikka Signature Wrap Guiltfree": {
+                "price": "₹319"
+            },
+            "Smoked Chicken Strips Signature Wrap Guiltfree": {
+                "price": "₹319"
+            },
+            "Peri Peri Chicken Signature Wrap Guiltfree": {
+                "price": "₹319"
+            }
+        },
+        "Salads": {},
+        "Signature Wraps": {
+            "Veggie Delite Signature Wrap": {
+                "price": "₹279"
+            },
+            "Aloo Patty Signature Wrap": {
+                "price": "₹305"
+            },
+            "Veg Shammi Kebab Signature Wrap": {
+                "price": "₹279"
+            },
+            "Corn & Peas Signature Wrap": {
+                "price": "₹279"
+            },
+            "Paneer Tikka Signature Wrap": {
+                "price": "₹299"
+            },
+            "Chilli Bean Signature Wrap": {
+                "price": "₹279"
+            },
+            "Smoked Chicken Strips Signature Wrap": {
+                "price": "₹319"
+            },
+            "Peri Peri Chicken Signature Wrap": {
+                "price": "₹319"
+            },
+            "Chicken Slice Signature Wrap": {
+                "price": "₹319"
+            },
+            "Spicy Chicken Keema Signature Wrap": {
+                "price": "₹269"
+            },
+            "Chicken Meatball Signature Wrap": {
+                "price": "₹319"
+            },
+            "Chicken Teriyaki Signature Wrap": {
+                "price": "₹319"
+            },
+            "B.M.T. Signature Wrap": {
+                "price": "₹329"
+            },
+            "Tandoori Chicken Tikka Signature Wrap": {
+                "price": "₹319"
+            },
+            "Tuna Signature Wrap": {
+                "price": "₹319"
+            }
+        },
+        "Sides – Try New Crispers": {
+            "Crispers- Salt n Pepper": {
+                "price": "₹129"
+            },
+            "Crispers- Oregano": {
+                "price": "₹139"
+            },
+            "Veg Kebab-5Pcs": {
+                "price": "₹129"
+            },
+            "Chicken Meatballs-5Pcs": {
+                "price": "₹139"
+            },
+            "Veggie & Cheese Toastie": {
+                "price": "₹99"
+            },
+            "Sizzling Jalapeno Cornitos": {
+                "price": "₹29"
+            },
+            "Peri Peri Cornitos": {
+                "price": "₹29"
+            },
+            "Cheese & Herbs Cornitos": {
+                "price": "₹29"
+            }
+        },
+        "Beverages": {
+            "Coke 330ml Can": {
+                "price": "₹67"
+            },
+            "Coke Zero 330ml Can": {
+                "price": "₹67"
+            },
+            "Sprite 330ml Can": {
+                "price": "₹67"
+            },
+            "Thums Up 330ml Can": {
+                "price": "₹67"
+            },
+            "Fanta 330ml Can": {
+                "price": "₹67"
+            },
+            "Maaza 300ml Can": {
+                "price": "₹96"
+            },
+            "Minute Maid Pulpy Orange 300ml Can": {
+                "price": "₹96"
+            },
+            "Schweppes Water 500ml Pet": {
+                "price": "₹67"
+            },
+            "Raw Coconut Water 200ml": {
+                "price": "₹96"
+            },
+            "Raw Alphonso Mango Juice 175 ml": {
+                "price": "₹96"
+            },
+            "Raw Choco Mint Protein Shake 195ml": {
+                "price": "₹119"
+            },
+            "Raw Valencia Orange 245ml": {
+                "price": "₹115"
+            },
+            "Raw Mixed Fruit 175ml": {
+                "price": "₹96"
+            },
+            "Raw Sugarcane 245ml": {
+                "price": "₹96"
+            },
+            "Iced Green Tea- Mint Mojito 245ml": {
+                "price": "₹96"
+            },
+            "Iced Green Tea – Peach 245ml": {
+                "price": "₹96"
+            }
+        },
+        "Desserts": {
+            "Oatmeal Raisin Cookie": {
+                "price": "₹55"
+            },
+            "Dark Chunk Chocolate Cookie": {
+                "price": "₹55"
+            },
+            "Double Dark Chunk Chocolate Cookie": {
+                "price": "₹55"
+            }
+        },
+        "Chhota Sub": {
+            "Chicken Slice": {
+                "price": "₹85"
+            },
+            "Corn & Peas": {
+                "price": "₹85"
+            },
+            "Egg & Cheese": {
+                "price": "₹85"
+            },
+            "Hara Bhara Kebab": {
+                "price": "₹85"
+            }
+        },
+        "Breads": {},
+        "Cheese Toppings": {},
+        "How to Order": {},
+        "How much is a Subway sandwich in India?": {},
+        "What is the best meal in Subway India?": {},
+        "Is Subway’s healthy?": {},
+        "What is the price of Chhota sub in Subway?": {},
+        "Post navigation": {},
+        "Similar Posts": {},
+        "Meatball Marinara Nutritional Details": {},
+        "Elite Chicken & Bacon Ranch": {},
+        "Subway Menu Korea with Prices: Latest and Updated": {},
+        "Subway Menu Kenya with Prices: Latest and Updated": {},
+        "Leave a ReplyCancel reply": {},
+        "Important Pages": {},
+        "Follow Us": {}
+    }
+}

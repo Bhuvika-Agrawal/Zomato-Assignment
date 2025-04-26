@@ -1,0 +1,1646 @@
+{
+  "restaurant_name": "Oakaz (from URL)",
+  "location": "Unknown (from URLs)",
+  "address": "Not Found",
+  "menu": [
+    {
+      "item_name": "Blue Lagoon",
+      "description": "",
+      "price": "₹199",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Virgin Mojito",
+      "description": "",
+      "price": "₹199",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Pink panther mocktail",
+      "description": "",
+      "price": "₹199",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Fresh Lime Soda",
+      "description": "",
+      "price": "₹189",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Masala lemonade",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Masala cola lemonade",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Orange mint lemonade",
+      "description": "",
+      "price": "₹229",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Orange Mojito",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "watermelon mojito",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Black Current Mojito",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Green apple mojito",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Strawberry Mojito",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Litchi Mojito",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kiwi Mojito",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Lemon Ice Tea",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Guava Ice Tea",
+      "description": "",
+      "price": "₹279",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Peach Ice Tea",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Blueberry Ice Tea",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cranberry Ice Tea",
+      "description": "",
+      "price": "₹229",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Watermelon Ice Tea",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Strawberry Ice Tea",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Green Apple ice Tea",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mango Ice Tea",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chocolate Shake",
+      "description": "",
+      "price": "₹279",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Strawberry Shake",
+      "description": "",
+      "price": "₹279",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Strawberry Oreo Shake",
+      "description": "",
+      "price": "₹309",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Berry blast shake",
+      "description": "",
+      "price": "₹289",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Brownie Shake",
+      "description": "",
+      "price": "₹299",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kitkat Shake",
+      "description": "",
+      "price": "₹319",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Black Current Shake",
+      "description": "",
+      "price": "₹319",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Vanlia Shake",
+      "description": "",
+      "price": "₹259",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Oreo Shake",
+      "description": "",
+      "price": "₹289",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Iced Mocha",
+      "description": "",
+      "price": "₹239",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Ice Americano Coffee",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Iced latte",
+      "description": "",
+      "price": "₹239",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cafe frappe",
+      "description": "",
+      "price": "₹269",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cold Coffee",
+      "description": "",
+      "price": "₹239",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cold Coffee With Ice-Cream",
+      "description": "",
+      "price": "₹279",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Browine Frappe",
+      "description": "",
+      "price": "₹299",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "cranberry iced with coffee",
+      "description": "",
+      "price": "₹269",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mocha Frappe",
+      "description": "",
+      "price": "₹279",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Choco Frappe",
+      "description": "",
+      "price": "₹289",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Irish Frappe",
+      "description": "",
+      "price": "₹309",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Caramel Frappe",
+      "description": "",
+      "price": "₹309",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Nutty Brownie Frappe",
+      "description": "",
+      "price": "₹319",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Hazelnut Frappe",
+      "description": "",
+      "price": "₹309",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Oreo Frappe",
+      "description": "",
+      "price": "₹309",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Expresso Black Coffee",
+      "description": "",
+      "price": "₹149",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cappuccino",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cafe latte",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Affogato Coffee",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Americano",
+      "description": "",
+      "price": "₹189",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Biscoff latte",
+      "description": "",
+      "price": "₹249",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Irish Latte",
+      "description": "",
+      "price": "₹259",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "irish cappuccino",
+      "description": "",
+      "price": "₹259",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Hazelnut Cappuccino",
+      "description": "",
+      "price": "₹219",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Hot Chocolate",
+      "description": "",
+      "price": "₹249",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "cafe mocha",
+      "description": "",
+      "price": "₹209",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Water Bottle",
+      "description": "",
+      "price": "₹40",
+      "category": "Beverages",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dahi Kabab",
+      "description": "",
+      "price": "₹339",
+      "category": "Summer Special Food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Basil Pesto Pasta",
+      "description": "",
+      "price": "₹395",
+      "category": "Summer Special Food",
+      "special_tags": []
+    },
+    {
+      "item_name": "2 Piece",
+      "description": "",
+      "price": "₹119",
+      "category": "Summer Special Food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Gulab Jamun with Vanilla Ice Cream",
+      "description": "",
+      "price": "₹169",
+      "category": "Summer Special Food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dry Fruit Lassi",
+      "description": "",
+      "price": "₹199",
+      "category": "Summer Special Drinks",
+      "special_tags": []
+    },
+    {
+      "item_name": "Masala buttermilk",
+      "description": "",
+      "price": "₹99",
+      "category": "Summer Special Drinks",
+      "special_tags": []
+    },
+    {
+      "item_name": "( juicy watermelon, zesty lime, and a hint of mint )",
+      "description": "",
+      "price": "₹229",
+      "category": "Summer Special Drinks",
+      "special_tags": []
+    },
+    {
+      "item_name": "(rich mango crush, a splash of citrus, and refreshing soda, mints )",
+      "description": "",
+      "price": "₹219",
+      "category": "Summer Special Drinks",
+      "special_tags": []
+    },
+    {
+      "item_name": "(frozen real berries, creamy hung curd, fresh milk, and rich vanilla ice cream)",
+      "description": "",
+      "price": "₹289",
+      "category": "Summer Special Drinks",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dhahi kabab",
+      "description": "",
+      "price": "₹339",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Tandoori Sholay Kebab",
+      "description": "",
+      "price": "₹339",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Hara - Bhara Kebab",
+      "description": "",
+      "price": "₹339",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Tikka",
+      "description": "",
+      "price": "₹409",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Hariyali Tikka",
+      "description": "",
+      "price": "₹399",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Lahori Tikka",
+      "description": "",
+      "price": "₹449",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Lasooni Tikka",
+      "description": "",
+      "price": "₹419",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Achaari Tikka",
+      "description": "",
+      "price": "₹409",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Kandhari Tikka",
+      "description": "",
+      "price": "₹429",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Malai Tikka",
+      "description": "",
+      "price": "₹409",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Podhina Tikka",
+      "description": "",
+      "price": "₹399",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Lal Mirch Tikka",
+      "description": "",
+      "price": "₹409",
+      "category": "Tandoori starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chilli baby corn",
+      "description": "",
+      "price": "₹365",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chinese Bhel",
+      "description": "",
+      "price": "₹269",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Highly recommended",
+      "description": "",
+      "price": "₹429",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chilli Paneer Dry/Gravy",
+      "description": "",
+      "price": "₹349",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Crispy corn",
+      "description": "",
+      "price": "₹269",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Manchurian Gravy",
+      "description": "",
+      "price": "₹299",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Kothe",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer 65",
+      "description": "",
+      "price": "₹339",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Manchurian dry",
+      "description": "",
+      "price": "₹299",
+      "category": "Chinese Starters",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Manchow Soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Hot and sour soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Tomato Soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Lemon Coriander Soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cream Of Mushroom Soup",
+      "description": "",
+      "price": "₹199",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mutter Paneer",
+      "description": "",
+      "price": "₹395",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Shahi Paneer",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mughlai Delicacy",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Khurchan",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Lababdaar",
+      "description": "",
+      "price": "₹419",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Palak Paneer",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Handi",
+      "description": "",
+      "price": "₹419",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Pasanda",
+      "description": "",
+      "price": "₹429",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Taka Tak",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Kolhapuri",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kaju Paneer Masala",
+      "description": "",
+      "price": "₹449",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Do Pyaaza",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Punjabi",
+      "description": "",
+      "price": "₹419",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Lasooni",
+      "description": "",
+      "price": "₹419",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kaju Curry",
+      "description": "",
+      "price": "₹409",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Panner tikka masala",
+      "description": "",
+      "price": "₹419",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kadai Paneer",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Hyderabadi",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Bhurji",
+      "description": "",
+      "price": "₹429",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Kofta",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Malai Kofta White Gravy",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Malai Kofta Red Gravy",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Aloo Mattar masala",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Jeera aloo Dry",
+      "description": "",
+      "price": "₹229",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mushroom mutter Masala",
+      "description": "",
+      "price": "₹339",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mushroom Do Pyaaza",
+      "description": "",
+      "price": "₹339",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Aloo gobhi masala",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mix veg",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg kolhapuri",
+      "description": "",
+      "price": "₹329",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Kadai",
+      "description": "",
+      "price": "₹309",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Hyderabadi",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Sev Tamatar",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dum Aloo Punjabi",
+      "description": "",
+      "price": "₹309",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Diwani Handi",
+      "description": "",
+      "price": "₹339",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Fry",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Makhni",
+      "description": "",
+      "price": "₹409",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Jeera Dal",
+      "description": "",
+      "price": "₹229",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Tadka",
+      "description": "",
+      "price": "₹299",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Sultani",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Steam Rice",
+      "description": "",
+      "price": "₹199",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Butter Khichdi",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kashmiri Pulao",
+      "description": "",
+      "price": "₹329",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mutter Pulao",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Hyderabadi Biryani",
+      "description": "",
+      "price": "₹429",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Jeera Rice",
+      "description": "",
+      "price": "₹229",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Pulao",
+      "description": "",
+      "price": "₹279",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Biryani",
+      "description": "",
+      "price": "₹399",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Vegitable Raita",
+      "description": "",
+      "price": "₹159",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Boondi Raita",
+      "description": "",
+      "price": "₹149",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cucumber Mint Raita",
+      "description": "",
+      "price": "₹159",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Onion Salad",
+      "description": "",
+      "price": "₹79",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Green Salad",
+      "description": "",
+      "price": "₹99",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cucumber Salad",
+      "description": "",
+      "price": "₹89",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kachumber Salad",
+      "description": "",
+      "price": "₹129",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Fry papad",
+      "description": "",
+      "price": "₹55",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Roast/ dry papad",
+      "description": "",
+      "price": "₹55",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Masala papad roast",
+      "description": "",
+      "price": "₹65",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Masala Papad Fry",
+      "description": "",
+      "price": "₹65",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Tandoori Roti",
+      "description": "",
+      "price": "₹29",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Tandoori Roti With Butter",
+      "description": "",
+      "price": "₹35",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Lachha Paratha",
+      "description": "",
+      "price": "₹55",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Garlic Naan",
+      "description": "",
+      "price": "₹105",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Butter Naan",
+      "description": "",
+      "price": "₹85",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Plain Naan",
+      "description": "",
+      "price": "₹79",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chilli Garlic Naan",
+      "description": "",
+      "price": "₹105",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Chilli Garlic Naan",
+      "description": "",
+      "price": "₹159",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Garlic Naan",
+      "description": "",
+      "price": "₹159",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Missi Roti",
+      "description": "",
+      "price": "₹55",
+      "category": "Indian Main Course",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Hakka Noodles",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Schezwan Noodles",
+      "description": "",
+      "price": "₹355",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Singapori Noodles",
+      "description": "",
+      "price": "₹379",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Schezwan Noodles",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chilli Garlic Noodles",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Noodles Manchurian fried rices",
+      "description": "",
+      "price": "₹319",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veggie, Alfredo Bake Pasta",
+      "description": "",
+      "price": "₹499",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veggie Lasagna Burst",
+      "description": "",
+      "price": "₹499",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Fried Rice",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Arrabiata Pasta",
+      "description": "",
+      "price": "₹395",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Schezwan Rice",
+      "description": "",
+      "price": "₹319",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cherry tomatoes, artichoke, bell pepper, olives, red onino and baby spinach",
+      "description": "",
+      "price": "₹519",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mozzarella, tomato sauce and triple cheese blend",
+      "description": "",
+      "price": "₹479",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Marinated tikka sauce, paneer cottage cheese and hung curd",
+      "description": "",
+      "price": "₹539",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Marinated paneer cudes with diced onions",
+      "description": "",
+      "price": "₹539",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Refried beans , sour cream , italian bread, red onion and diced cheese",
+      "description": "",
+      "price": "₹519",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Alfredo Pasta",
+      "description": "",
+      "price": "₹395",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Basil Pesto Pasta",
+      "description": "",
+      "price": "₹395",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Exotic Alfredo pasta",
+      "description": "",
+      "price": "₹409",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Pink Sauce Pasta",
+      "description": "",
+      "price": "₹409",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Exotic Pink sauce pasta",
+      "description": "",
+      "price": "₹419",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cream Mushroom Pasta",
+      "description": "",
+      "price": "₹419",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Garlic Bread",
+      "description": "",
+      "price": "₹199₹199",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Garlic Bread",
+      "description": "",
+      "price": "₹375",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Chilli Garlic Bread",
+      "description": "",
+      "price": "₹375",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Corn Garlic Bread",
+      "description": "",
+      "price": "₹385",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Exotica Garlic Bread",
+      "description": "",
+      "price": "₹395",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "French Fries",
+      "description": "",
+      "price": "₹209",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chatpata Masala Fries",
+      "description": "",
+      "price": "₹219",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Peri Peri Fries",
+      "description": "",
+      "price": "₹219",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Cheese Club Sandwich",
+      "description": "",
+      "price": "₹309",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Club Sandwich",
+      "description": "",
+      "price": "₹289",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Chutney",
+      "description": "",
+      "price": "₹209",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Mayo Delight sandwich",
+      "description": "",
+      "price": "₹259",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Tikka Sandwich",
+      "description": "",
+      "price": "₹335",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Mayo Corn Sandwich",
+      "description": "",
+      "price": "₹325",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Delight Sandwich",
+      "description": "",
+      "price": "₹335",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Burgers",
+      "description": "",
+      "price": "₹209",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg Cheese Burger",
+      "description": "",
+      "price": "₹209",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "veg Burger",
+      "description": "",
+      "price": "₹199",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "veg Burger",
+      "description": "",
+      "price": "₹219",
+      "category": "Chinese and Italian",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Cigar Roll",
+      "description": "",
+      "price": "₹395",
+      "category": "Rolls",
+      "special_tags": []
+    },
+    {
+      "item_name": "Veg - Pad Thai Noodles",
+      "description": "",
+      "price": "₹389",
+      "category": "Thai Curry and Thai noodles",
+      "special_tags": []
+    },
+    {
+      "item_name": "Thai Red Curry: A rich and spicy curry featuring exotic vegetables, coconut milk, red curry paste, bamboo shoots, bell peppers, carrots, and Thai basil and steam rice",
+      "description": "",
+      "price": "₹449",
+      "category": "Thai Curry and Thai noodles",
+      "special_tags": []
+    },
+    {
+      "item_name": "Thai Green Curry: A vibrant and spicy curry with exotic vegetables, coconut milk, green curry paste, bamboo shoots, bell peppers, and Thai basil.",
+      "description": "",
+      "price": "₹449",
+      "category": "Thai Curry and Thai noodles",
+      "special_tags": []
+    },
+    {
+      "item_name": "Tomato Soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Sweet corn soup",
+      "description": "",
+      "price": "₹189",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chilly Paneer",
+      "description": "",
+      "price": "₹349",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Crispy corn",
+      "description": "",
+      "price": "₹269",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Cigar Roll",
+      "description": "",
+      "price": "₹395",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Cheese Balls",
+      "description": "",
+      "price": "₹395",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dhahi Kabab",
+      "description": "",
+      "price": "₹339",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Tikka",
+      "description": "",
+      "price": "₹409",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer malai tikka",
+      "description": "",
+      "price": "₹405",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Alfredo Pasta (White Sauce)",
+      "description": "",
+      "price": "₹395",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Vegitable Hakka noodles",
+      "description": "",
+      "price": "₹309",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Fried rice",
+      "description": "",
+      "price": "₹309",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Butter Khichdi",
+      "description": "",
+      "price": "₹279",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Shahi Paneer",
+      "description": "",
+      "price": "₹399",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Paneer Butter Masala",
+      "description": "",
+      "price": "₹399",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Kaju Carry White Gravy",
+      "description": "",
+      "price": "₹429",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Jeera Dal",
+      "description": "",
+      "price": "₹229",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Hari Mirch",
+      "description": "",
+      "price": "₹269",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Dal Fry",
+      "description": "",
+      "price": "₹279",
+      "category": "Jain food",
+      "special_tags": []
+    },
+    {
+      "item_name": "Gulab Jamun 2 piece",
+      "description": "",
+      "price": "₹119",
+      "category": "Desserts",
+      "special_tags": []
+    },
+    {
+      "item_name": "Gulab Jamun with Vanilla Ice Cream",
+      "description": "",
+      "price": "₹169",
+      "category": "Desserts",
+      "special_tags": []
+    },
+    {
+      "item_name": "Brownie Chocolate Sauce",
+      "description": "",
+      "price": "₹259",
+      "category": "Desserts",
+      "special_tags": []
+    },
+    {
+      "item_name": "Brownie Sunday",
+      "description": "",
+      "price": "₹259",
+      "category": "Desserts",
+      "special_tags": []
+    },
+    {
+      "item_name": "Chocolate Ice Cream with Chocolate Sauce",
+      "description": "",
+      "price": "₹99",
+      "category": "Desserts",
+      "special_tags": []
+    },
+    {
+      "item_name": "Vanilla",
+      "description": "",
+      "price": "₹99",
+      "category": "Desserts",
+      "special_tags": []
+    }
+  ],
+  "operating_hours": "Not Found",
+  "contact_info": "Not Found",
+  "scraped_urls": [
+    "https://oakaz.in/catalog/digital-menu/beverages-3272",
+    "https://oakaz.in/catalog/digital-menu/summer-special-food-5440",
+    "https://oakaz.in/catalog/digital-menu/summer-special-drinks-5395",
+    "https://oakaz.in/catalog/digital-menu/tandoori-starters-3273",
+    "https://oakaz.in/catalog/digital-menu/chinese-starters-3274",
+    "https://oakaz.in/catalog/digital-menu/indian-main-course-3275",
+    "https://oakaz.in/catalog/digital-menu/chinese-italian-3276",
+    "https://oakaz.in/catalog/digital-menu/rolls-3277",
+    "https://oakaz.in/catalog/digital-menu/thai-curry-and-thai-noodles-3278",
+    "https://oakaz.in/catalog/digital-menu/jain-food-3279",
+    "https://oakaz.in/catalog/digital-menu/desserts-3280"
+  ]
+}

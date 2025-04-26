@@ -1,0 +1,107 @@
+# --- Environment Files ---
+# Never commit secrets!
+.env
+*.env
+
+# --- Python Virtual Environments ---
+# Common names for virtual environment folders
+venv/
+**/venv/
+env/
+**/env/
+.env/
+*/.env/
+.venv/
+*/.venv/
+ENV/
+*/ENV/
+env.bak/
+venv.bak/
+
+# --- Python Cache & Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+.python-version
+
+# --- Distribution / Build Artifacts ---
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Dependency Management ---
+pip-log.txt
+pip-delete-this-directory.txt
+*.pip
+
+# --- IDE / Editor Files ---
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Other common ones
+*.swp
+*~
+*.bak
+*.tmp
+
+# --- Operating System Files ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Linux
+.directory
+
+# --- Testing ---
+.pytest_cache/
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.tox/
+
+# --- Web Scraping Specific (Optional but Recommended) ---
+# Downloaded files if not meant to be kept (e.g., temporary PDFs)
+# data/*.pdf  # Example: ignore downloaded PDFs in data if temporary
+# data/*.html # Example: ignore downloaded HTML if temporary
+
+# Log files if you create any
+*.log
+
+# ChromeDriver / WebDriver executables (if stored in repo, though often better managed externally)
+# chromedriver.exe
+# chromedriver
+# geckodriver.exe
+# geckodriver
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+chrome.exe

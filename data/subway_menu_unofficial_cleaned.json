@@ -1,0 +1,301 @@
+{
+    "restaurant_name": "Subway (India - Unofficial Source) (Cleaned)",
+    "menu": {
+        "Veg": {
+            "Chilli Cheese Sandwich": {
+                "price": "₹269",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Paneer Achari Sandwich": {
+                "price": "₹269",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Veg Sub + Side + Coke": {
+                "price": "₹359",
+                "original_category": "Super Saver Combos"
+            },
+            "Non-Veg Sub + Side + Coke": {
+                "price": "₹379",
+                "original_category": "Super Saver Combos"
+            },
+            "2 Veg Subs + Coke": {
+                "price": "₹439",
+                "original_category": "Super Saver Combos"
+            },
+            "2 Veg Signature Subs + Coke": {
+                "price": "₹489",
+                "original_category": "Super Saver Combos"
+            },
+            "2 Veg Premium Subs + Coke": {
+                "price": "₹489",
+                "original_category": "Super Saver Combos"
+            },
+            "Any 2 Veg/Non-Veg Subs + Coke": {
+                "price": "₹539",
+                "original_category": "Super Saver Combos"
+            },
+            "2 Non-Veg Signature Subs + Coke": {
+                "price": "₹589",
+                "original_category": "Super Saver Combos"
+            },
+            "Paneer Achari Footlong": {
+                "price": "₹546",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Paneer Achari Footlong – Make it a Cheese Pull": {
+                "price": "₹559",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Paneer Achari Combo": {
+                "price": "₹589",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Aloo Patty Sandwich": {
+                "price": "₹221",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Corn & Peas Sandwich": {
+                "price": "₹221",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Paneer Tikka Sandwich": {
+                "price": "₹240",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Veg Shammi Sandwich": {
+                "price": "₹240",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Chilli Bean Patty Sandwich": {
+                "price": "₹221",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Paneer Tikka Sandwich Guiltfree": {
+                "price": "₹259",
+                "original_category": "GuiltFree Menu"
+            },
+            "Aloo Patty Sandwich Guiltfree": {
+                "price": "₹209",
+                "original_category": "GuiltFree Menu"
+            },
+            "Corn & Peas Sandwich Guiltfree": {
+                "price": "₹209",
+                "original_category": "GuiltFree Menu"
+            },
+            "Paneer Tikka Signature Wrap Guiltfree": {
+                "price": "₹289",
+                "original_category": "GuiltFree Menu"
+            },
+            "Aloo Patty Signature Wrap": {
+                "price": "₹305",
+                "original_category": "Signature Wraps"
+            },
+            "Veg Shammi Kebab Signature Wrap": {
+                "price": "₹279",
+                "original_category": "Signature Wraps"
+            },
+            "Corn & Peas Signature Wrap": {
+                "price": "₹279",
+                "original_category": "Signature Wraps"
+            },
+            "Paneer Tikka Signature Wrap": {
+                "price": "₹299",
+                "original_category": "Signature Wraps"
+            },
+            "Chilli Bean Signature Wrap": {
+                "price": "₹279",
+                "original_category": "Signature Wraps"
+            },
+            "Veg Kebab-5Pcs": {
+                "price": "₹129",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Sizzling Jalapeno Cornitos": {
+                "price": "₹29",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Cheese & Herbs Cornitos": {
+                "price": "₹29",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Corn & Peas": {
+                "price": "₹85",
+                "original_category": "Chhota Sub"
+            },
+            "Hara Bhara Kebab": {
+                "price": "₹85",
+                "original_category": "Chhota Sub"
+            }
+        },
+        "Non-Veg": {
+            "Egg ‘n Cheese Sandwich": {
+                "price": "₹279",
+                "original_category": "Try New Grills – Hot Sandwiches"
+            },
+            "Chicken Keema Sandwich": {
+                "price": "₹330",
+                "original_category": "Super Saver Combos"
+            },
+            "Roast Chicken Melt Sandwich": {
+                "price": "₹440",
+                "original_category": "Super Saver Combos"
+            },
+            "Chicken Tikka Achari Sandwich": {
+                "price": "₹269",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Pepper Chicken Sandwich": {
+                "price": "₹299",
+                "original_category": "Chef’s Special Sandwiches – Hotsellers"
+            },
+            "Chicken Keema Grill Sandwich": {
+                "price": "₹199",
+                "original_category": "Try New Grills – Hot Sandwiches"
+            },
+            "Roast Chicken Melt Grill Sandwich": {
+                "price": "₹239",
+                "original_category": "Try New Grills – Hot Sandwiches"
+            },
+            "Chicken Slice Egg & Cheese Sandwich": {
+                "price": "₹212",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Veggie Delite Sandwich": {
+                "price": "₹202",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Chicken Meatball Sandwich": {
+                "price": "₹254",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Chicken Slice Sandwich": {
+                "price": "₹254",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Chicken Teriyaki Sandwich": {
+                "price": "₹278",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Spicy Chicken Keema Sandwich": {
+                "price": "₹249",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "B.M.T. Sandwich": {
+                "price": "₹278",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Peri Peri Chicken Sandwich": {
+                "price": "₹254",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Tandoori Chicken Tikka Sandwich": {
+                "price": "₹254",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Tuna Sandwich": {
+                "price": "₹278",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Roasted Chicken Strip Sandwich": {
+                "price": "₹254",
+                "original_category": "Create Your Own Sandwiches"
+            },
+            "Veggie Delite Sandwich Guiltfree": {
+                "price": "₹209",
+                "original_category": "GuiltFree Menu"
+            },
+            "Tandoori Chicken Tikka Sandwich Guiltfree": {
+                "price": "₹289",
+                "original_category": "GuiltFree Menu"
+            },
+            "Roasted Chicken Strip Sandwich Guiltfree": {
+                "price": "₹249",
+                "original_category": "GuiltFree Menu"
+            },
+            "B.M.T. Sandwich Guiltfree": {
+                "price": "₹249",
+                "original_category": "GuiltFree Menu"
+            },
+            "Chicken Teriyaki Sandwich Guiltfree": {
+                "price": "₹289",
+                "original_category": "GuiltFree Menu"
+            },
+            "Peri Peri Chicken Sandwich Guiltfree": {
+                "price": "₹289",
+                "original_category": "GuiltFree Menu"
+            },
+            "Tandoori Chicken Tikka Signature Wrap Guiltfree": {
+                "price": "₹319",
+                "original_category": "GuiltFree Menu"
+            },
+            "Smoked Chicken Strips Signature Wrap Guiltfree": {
+                "price": "₹319",
+                "original_category": "GuiltFree Menu"
+            },
+            "Peri Peri Chicken Signature Wrap Guiltfree": {
+                "price": "₹319",
+                "original_category": "GuiltFree Menu"
+            },
+            "Veggie Delite Signature Wrap": {
+                "price": "₹279",
+                "original_category": "Signature Wraps"
+            },
+            "Smoked Chicken Strips Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Peri Peri Chicken Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Chicken Slice Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Spicy Chicken Keema Signature Wrap": {
+                "price": "₹269",
+                "original_category": "Signature Wraps"
+            },
+            "Chicken Meatball Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Chicken Teriyaki Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "B.M.T. Signature Wrap": {
+                "price": "₹329",
+                "original_category": "Signature Wraps"
+            },
+            "Tandoori Chicken Tikka Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Tuna Signature Wrap": {
+                "price": "₹319",
+                "original_category": "Signature Wraps"
+            },
+            "Chicken Meatballs-5Pcs": {
+                "price": "₹139",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Veggie & Cheese Toastie": {
+                "price": "₹99",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Peri Peri Cornitos": {
+                "price": "₹29",
+                "original_category": "Sides – Try New Crispers"
+            },
+            "Chicken Slice": {
+                "price": "₹85",
+                "original_category": "Chhota Sub"
+            },
+            "Egg & Cheese": {
+                "price": "₹85",
+                "original_category": "Chhota Sub"
+            }
+        }
+    }
+}
