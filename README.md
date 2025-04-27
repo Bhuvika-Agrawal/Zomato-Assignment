@@ -83,10 +83,10 @@ The system follows this general data flow:
 
 ## Future Improvements
 
-*   Implement more robust Selenium scrapers using explicit waits and element selectors for dynamic sites.
-*   Scrape location-specific data where possible.
-*   Extract richer features (allergens, spice levels) using more advanced parsing or potentially OCR/image analysis if needed.
-*   Experiment with different embedding models or fine-tuning for better retrieval accuracy.
-*   Explore larger LLMs (if hardware permits) or different prompting techniques for more nuanced generation.
-*   Add conversation history management.
-*   Implement more sophisticated data cleaning for the scraped JSON files.
+*   Implementing more robust Selenium scrapers using explicit waits and element selectors for dynamic sites.
+*   Scraping location-specific data where possible.
+*   Extracting richer features (allergens, spice levels) using more advanced parsing or potentially OCR/image analysis if needed.
+*   Experimenting with different embedding models or fine-tuning for better retrieval accuracy.
+*   Exploring larger LLMs (if hardware permits) or different prompting techniques for more nuanced generation.
+*   Adding conversation history management.
+*   Implementing more sophisticated data cleaning for the scraped JSON files.
