@@ -105,3 +105,7 @@ coverage.xml
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 chrome.exe
+models/
+*.gguf 
+knowledge_base/
+chroma_db_menu/ 
